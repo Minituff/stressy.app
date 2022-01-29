@@ -1,7 +1,14 @@
-import React from 'react';
+import React, { Component } from 'react';
+import { Container } from 'react-bootstrap';
+import { PrivacyPolicy } from '../components/PrivacyPolicy';
 
-export const PrivacyPage = () => {
-  return <div>
-      <h1>Privacy Page</h1>
-  </div>;
-};
+export class PrivacyPage extends Component {
+  render() {
+    return <Container>
+      <div>
+        <br></br>
+        <PrivacyPolicy />
+      </div>
+    </Container>;
+  }
+}

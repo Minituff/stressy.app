@@ -1,8 +1,9 @@
 import NavBar from './components/NavBar';
 import { Routes, Route } from "react-router-dom";
-import './App.css';
 import { HomePage } from './pages/HomePage';
 import { PrivacyPage } from './pages/PrivacyPage';
+// import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
