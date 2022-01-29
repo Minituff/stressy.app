@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/stressy.app/static/css/main.56e6221f.css",
+    "main.js": "/stressy.app/static/js/main.ea735e00.js",
+    "static/js/787.bbd231d6.chunk.js": "/stressy.app/static/js/787.bbd231d6.chunk.js",
+    "static/media/logo192.png": "/stressy.app/static/media/logo192.22447361c0b851ebaaa6.png",
+    "static/media/privacy-policy.md": "/stressy.app/static/media/privacy-policy.5879e71881ab7d9c3054.md",
+    "index.html": "/stressy.app/index.html",
+    "main.56e6221f.css.map": "/stressy.app/static/css/main.56e6221f.css.map",
+    "main.ea735e00.js.map": "/stressy.app/static/js/main.ea735e00.js.map",
+    "787.bbd231d6.chunk.js.map": "/stressy.app/static/js/787.bbd231d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.ea735e00.js"
+  ]
+}
