@@ -18,10 +18,10 @@ export class NavBar extends Component {
             />{' '}
             Stressy
           </Navbar.Brand>
-          <Nav className="me-auto">
-            <Nav.Link href="/home">Home</Nav.Link>
-            <Nav.Link href="/test">Test</Nav.Link>
-            <Nav.Link href="/privacy">Privacy Policy</Nav.Link>
+          <Nav className="justify-content-end">
+            {/* <Nav.Link href="/#/privacy">Privacy Policy</Nav.Link> */}
+            {/* <Nav.Link href="/#/donwload">Download</Nav.Link> */}
+            <Nav.Link href="https://github.com/Minituff/Stressy">GitHub</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

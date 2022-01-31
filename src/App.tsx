@@ -1,5 +1,5 @@
 import NavBar from './components/NavBar';
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, HashRouter } from "react-router-dom";
 import { HomePage } from './pages/HomePage';
 import { PrivacyPage } from './pages/PrivacyPage';
 import { NotFoundPage } from './pages/NotFoundPage';
@@ -10,13 +10,15 @@ import { TestPage } from './pages/TestPage';
 function App() {
   return (
     <div className="App">
+      <HashRouter>
       <NavBar></NavBar>
-      <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="*" element={<NotFoundPage />} />
-        <Route path="/test" element={<TestPage />} />
-        <Route path="/privacy" element={<PrivacyPage />} />
-      </Routes>
+        <Routes>
+          <Route path="*" element={<NotFoundPage />} />
+          <Route path="/test" element={<TestPage />} />
+          <Route path="/privacy" element={<PrivacyPage />} />
+          <Route path="/" element={<HomePage />} />
+        </Routes>
+      </HashRouter>
     </div>
   );
 }
