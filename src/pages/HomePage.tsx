@@ -1,16 +1,12 @@
 import { Col, Container, Row } from 'react-bootstrap';
-
-// import { EffectCards } from "swiper";
+import { SwiperApp } from '../components/SwiperApp';
+import Footer from '../components/Footer';
 
 import playstore from "../assets/badges/google-play-badge.svg"
 import appstore from "../assets/badges/app-store-black.svg"
 import image1 from "../assets/screenshots/image1-trim.png"
-import { SwiperApp } from '../components/SwiperApp';
 
 
-// import "swiper/css";
-// import "swiper/css/pagination";
-// import "swiper/css/effect-cards";
 
 import "../pages/HomePage.css"
 
@@ -51,7 +47,7 @@ export const HomePage = () => {
 
       </Row>
 
-
+      <Footer></Footer>
 
     </Container>
   </div>;

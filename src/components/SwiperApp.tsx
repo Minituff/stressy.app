@@ -1,5 +1,5 @@
 import { Swiper, SwiperSlide } from "swiper/react";
-import { EffectCards } from "swiper";
+import { EffectCards, Autoplay } from "swiper";
 
 import image2 from "../assets/screenshots/image2.png"
 import image3 from "../assets/screenshots/image3.png"
@@ -17,8 +17,17 @@ export const SwiperApp = () => {
       <Swiper
         effect={"cards"}
         grabCursor={true}
-        modules={[EffectCards]}
+        modules={[Autoplay, EffectCards]}
+        centeredSlides={true}
         className="mySwiper"
+        autoplay={{
+          delay: 4000,
+          disableOnInteraction: true,
+        }}
+        navigation={true}
+        // onSwiper={(swiper) => console.log(swiper)}
+        onSlideChange={(swiper) => console.log(swiper.activeIndex)}
+
       >
         <SwiperSlide> <img src={image2} alt='image2' className='swiper-img' /> </SwiperSlide>
         <SwiperSlide> <img src={image3} alt='image2' className='swiper-img' /> </SwiperSlide>
