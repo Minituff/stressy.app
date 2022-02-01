@@ -3,7 +3,7 @@ width: 30%;
 }
 
 .swiper {
-width: 400px;
+/* width: 400px; */
 /* height: 800px; */
 }
 
@@ -12,7 +12,7 @@ background: rgba(0,0,0,0);
 }
 
 .swiper-slide {
-display: flex;
+/* display: flex; */
 align-items: flex-end;
 justify-content: center;
 /* border-radius: 18px; */

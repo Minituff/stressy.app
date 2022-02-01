@@ -20,7 +20,7 @@ export const RenderMarkdown = (md: RanderMarkdownInfo) => {
     fetch(`${md.mdFile}`)
       .then((res) => res.text())
       .then((text) => setMarkdown(text));
-  }, []);
+  }, [md.mdFile]);
 
   return (
     <>

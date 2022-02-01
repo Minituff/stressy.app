@@ -38,14 +38,11 @@ export const HomePage = () => {
         </Col>
       </Row>
 
-      <br />
-      <br />
-      <br />
+      <Row style={{"padding": "50px"}}/>
 
-      <Row>
-        <SwiperApp></SwiperApp>
+      <SwiperApp></SwiperApp>
 
-      </Row>
+      <Row style={{"padding": "50px"}}/>
 
       <Footer></Footer>
 
