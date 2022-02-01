@@ -10,6 +10,7 @@ interface RanderMarkdownInfo {
  *  `import markdownFile from '../privacy-policy.md';`
  */
   mdFile: string
+  className?: "markdown"
 }
 export const RenderMarkdown = (md: RanderMarkdownInfo) => {
   console.log(md.mdFile)
@@ -24,7 +25,7 @@ export const RenderMarkdown = (md: RanderMarkdownInfo) => {
 
   return (
     <>
-      <ReactMarkdown children={markdown} />
+      <ReactMarkdown children={markdown} className={md.className} />
     </>
   );
 };

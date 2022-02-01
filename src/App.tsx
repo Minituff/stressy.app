@@ -4,23 +4,27 @@ import { HomePage } from './pages/HomePage';
 import { PrivacyPage } from './pages/PrivacyPage';
 import { NotFoundPage } from './pages/NotFoundPage';
 import { TermsPage } from './pages/TermsPage';
-// import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { TestPage } from './pages/TestPage';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="App">
       <HashRouter>
-      <NavBar></NavBar>
+        
+        <NavBar></NavBar>
+        
         <Routes>
           <Route path="*" element={<NotFoundPage />} />
-          <Route path="/test" element={<TestPage />} />
           <Route path="/privacy" element={<PrivacyPage />} />
           <Route path="/terms" element={<TermsPage />} />
           <Route path="/" element={<HomePage />} />
         </Routes>
+        
+        <Footer></Footer>
+
       </HashRouter>
+
     </div>
   );
 }

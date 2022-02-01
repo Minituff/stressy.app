@@ -9,6 +9,8 @@ import image1 from "../assets/screenshots/image1-trim.png"
 
 
 import "../pages/HomePage.css"
+import "../pages/SharedCSS.css"
+
 
 
 export const HomePage = () => {
@@ -43,8 +45,6 @@ export const HomePage = () => {
       <SwiperApp></SwiperApp>
 
       <Row style={{"padding": "50px"}}/>
-
-      <Footer></Footer>
 
     </Container>
   </div>;

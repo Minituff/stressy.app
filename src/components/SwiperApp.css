@@ -1,6 +1,13 @@
 .swiper-img{
-width: 30%;
+    width: 17em;
 }
+
+/* Only for large screens */
+@media (min-width: 800px) {
+    .swiper-img{
+        width: 25em;
+    }
+  }
 
 .swiper {
 /* width: 400px; */

@@ -8,7 +8,7 @@ export class TermsPage extends Component {
     return <Container>
       <div>
         <br></br>
-        <RenderMarkdown mdFile={markdownFile}/>
+        <RenderMarkdown mdFile={markdownFile} className='markdown'/>
       </div>
     </Container>;
   }

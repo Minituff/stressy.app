@@ -6,11 +6,9 @@ import markdownFile from '../privacy-policy.md';
 export class PrivacyPage extends Component {
 
   render() {
-    return <Container>
-      <div>
+    return <Container className='markdown-container'>
         <br></br>
-        <RenderMarkdown mdFile={markdownFile}/>
-      </div>
+        <RenderMarkdown mdFile={markdownFile} className='markdown' />
     </Container>;
   }
 }

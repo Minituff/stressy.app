@@ -1,0 +1,22 @@
+html{
+    background-color: #3c3e3f;
+  }
+
+  
+#footer {
+	text-align: center;
+	padding: 30px;
+	width: auto;
+	margin: 0 auto;
+	background-color: #3c3e3f;
+	color: #fff;
+	position: relative;
+
+}
+
+.markdown{
+	/* background-color: grey; */
+}
+.markdown-container{
+	/* background-color: grey; */
+}

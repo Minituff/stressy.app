@@ -4,9 +4,6 @@
   background-color: #3c3e3f;
 }
 
-html{
-  background-color: #3c3e3f;
-}
 
 #homepage-container{
   padding: 2em;
@@ -41,4 +38,3 @@ img#appstore-logo {
   /* object-position: 0% 0%; */
   box-shadow: 0 26px 20px -20px black;
 }
-
