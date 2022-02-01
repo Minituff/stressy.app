@@ -1,0 +1,19 @@
+.swiper-img{
+width: 30%;
+}
+
+.swiper {
+width: 400px;
+/* height: 800px; */
+}
+
+.swiper-3d .swiper-slide-shadow {
+background: rgba(0,0,0,0);
+}
+
+.swiper-slide {
+display: flex;
+align-items: center;
+justify-content: center;
+/* border-radius: 18px; */
+}
