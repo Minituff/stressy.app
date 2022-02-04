@@ -1,6 +1,5 @@
 import { Col, Container, Row } from 'react-bootstrap';
 import { SwiperApp } from '../components/SwiperApp';
-import Footer from '../components/Footer';
 
 import playstore from "../assets/badges/google-play-badge.svg"
 import appstore from "../assets/badges/app-store-black.svg"
@@ -15,8 +14,8 @@ import "../pages/SharedCSS.css"
 
 export const HomePage = () => {
 
-  const googlePlayLink = 'https://google.com'
-  const appStoreLink = 'https://google.com'
+  const googlePlayLink = ''
+  const appStoreLink = ''
 
 
   return <div className='HomePage'>
