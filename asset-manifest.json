@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1c770998.css",
-    "main.js": "/static/js/main.2a37713c.js",
+    "main.js": "/static/js/main.ea6d3a13.js",
     "static/js/787.bbd231d6.chunk.js": "/static/js/787.bbd231d6.chunk.js",
     "static/media/image4.png": "/static/media/image4.4c68169c86003e4db399.png",
     "static/media/image3.png": "/static/media/image3.21b3d64b434f68766029.png",
@@ -10,17 +10,17 @@
     "static/media/image1-trim.png": "/static/media/image1-trim.1afe638c524375bd489e.png",
     "static/media/logo192.png": "/static/media/logo192.22447361c0b851ebaaa6.png",
     "static/media/app-store-black.svg": "/static/media/app-store-black.8c4986ee4828b47d16f5cd694ef065f2.svg",
-    "static/media/terms.md": "/static/media/terms.8334e9728e3af288a20b.md",
-    "static/media/privacy-policy.md": "/static/media/privacy-policy.5879e71881ab7d9c3054.md",
+    "static/media/terms.md": "/static/media/terms.5d167f83e4009086d37a.md",
     "static/media/google-play-badge.svg": "/static/media/google-play-badge.060d4113e955a75bbf7025781ebce951.svg",
+    "static/media/privacy-policy.md": "/static/media/privacy-policy.9485a3dd2260563c2cba.md",
     "static/media/github.svg": "/static/media/github.c57108f56cb8321f6bdf6da0e774f646.svg",
     "index.html": "/index.html",
     "main.1c770998.css.map": "/static/css/main.1c770998.css.map",
-    "main.2a37713c.js.map": "/static/js/main.2a37713c.js.map",
+    "main.ea6d3a13.js.map": "/static/js/main.ea6d3a13.js.map",
     "787.bbd231d6.chunk.js.map": "/static/js/787.bbd231d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c770998.css",
-    "static/js/main.2a37713c.js"
+    "static/js/main.ea6d3a13.js"
   ]
 }
