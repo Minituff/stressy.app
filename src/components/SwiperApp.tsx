@@ -6,6 +6,9 @@ import image2 from "../assets/screenshots/image2.png"
 import image3 from "../assets/screenshots/image3.png"
 import image4 from "../assets/screenshots/image4.png"
 import image5 from "../assets/screenshots/image5.png"
+import image6 from "../assets/screenshots/image6.png"
+import image7 from "../assets/screenshots/image7.png"
+import image8 from "../assets/screenshots/image8.png"
 
 import "swiper/css";
 import "swiper/css/effect-cards";
@@ -32,8 +35,11 @@ export class SwiperApp extends Component<AppProps, AppState> {
       titles: [
         "Share with your friends",
         "Track headaches and find trends",
-        "100% free and open source",
-        "Show only what you want to see",
+        "100% free with no ads",
+        "Customize your calendar",
+        "Complete control of your profile",
+        "Beautiful light and dark themes",
+        "Deep customization",
       ],
     };
 
@@ -68,6 +74,9 @@ export class SwiperApp extends Component<AppProps, AppState> {
           <SwiperSlide> <img src={image3} alt='image2' className='swiper-img' /> </SwiperSlide>
           <SwiperSlide> <img src={image4} alt='image4' className='swiper-img' /> </SwiperSlide>
           <SwiperSlide> <img src={image5} alt='image5' className='swiper-img' /> </SwiperSlide>
+          <SwiperSlide> <img src={image6} alt='image6' className='swiper-img' /> </SwiperSlide>
+          <SwiperSlide> <img src={image7} alt='image7' className='swiper-img' /> </SwiperSlide>
+          <SwiperSlide> <img src={image8} alt='image8' className='swiper-img' /> </SwiperSlide>
         </Swiper>
       </>
     );
