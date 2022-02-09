@@ -43,7 +43,7 @@ export class SwiperApp extends Component<AppProps, AppState> {
       ],
     };
 
-    this.changeTitle = this.changeTitle.bind(this) 
+    this.changeTitle = this.changeTitle.bind(this)
   }
 
   changeTitle(swiper: any) {

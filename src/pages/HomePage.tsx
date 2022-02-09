@@ -39,12 +39,15 @@ export const HomePage = () => {
         </Col>
       </Row>
 
-      <Row style={{"padding": "50px"}}/>
-
-      <SwiperApp></SwiperApp>
-
-      <Row style={{"padding": "50px"}}/>
-
+      <Row style={{ "padding": "50px" }} />
     </Container>
+
+    {/* Allow swiper app to use the full screen width */}
+    <SwiperApp></SwiperApp>
+
+    <Container id='homepage-container'>
+      <Row style={{ "padding": "50px" }} />
+    </Container>
+
   </div>;
 };
