@@ -1,6 +1,6 @@
 # Privacy Policy
 
-WeMet, LLC built the Stressy app as an Open Source app. This SERVICE is provided by WeMet, LLC at no cost and is intended for use as is.
+WeMet, LLC built the Stressy app as a free app. This SERVICE is provided by WeMet, LLC at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
