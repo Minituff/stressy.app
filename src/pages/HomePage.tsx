@@ -15,7 +15,7 @@ import "../pages/SharedCSS.css"
 export const HomePage = () => {
 
   const googlePlayLink = ''
-  const appStoreLink = ''
+  const appStoreLink = 'https://apps.apple.com/app/stressy/id1607621903'
 
 
   return <div className='HomePage'>
