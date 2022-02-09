@@ -1,0 +1,14 @@
+{
+  "applinks": {
+     "apps": [],
+     "details": [
+          {
+       "appID": "52HKZF8B5L.app.wemet.stressy",
+       "paths": ["*"]
+          }
+      ]
+  },
+  "webcredentials": {
+     "apps": ["52HKZF8B5L.app.wemet.stressy"]
+  }
+}
