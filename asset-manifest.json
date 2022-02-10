@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.e3a4b13b.css",
-    "main.js": "/static/js/main.92a6b03a.js",
+    "main.js": "/static/js/main.427ad147.js",
     "static/js/787.bbd231d6.chunk.js": "/static/js/787.bbd231d6.chunk.js",
     "static/media/image4.png": "/static/media/image4.3a209af5963f35f8959f.png",
     "static/media/image3.png": "/static/media/image3.74cc5ff225002f854a80.png",
     "static/media/image5.png": "/static/media/image5.88c91b4fd2a38bf09986.png",
     "static/media/image2.png": "/static/media/image2.525e237f748d72c923b8.png",
     "static/media/image7.png": "/static/media/image7.e6bb36c1b0bc76568a30.png",
-    "static/media/image8.png": "/static/media/image8.59e0f80d4530597bf1fb.png",
+    "static/media/image8.png": "/static/media/image8.90cd66a61d3038544e96.png",
     "static/media/image1-trim.png": "/static/media/image1-trim.1afe638c524375bd489e.png",
     "static/media/image6.png": "/static/media/image6.fa42d62312b7a48f3d8f.png",
     "static/media/logo192.png": "/static/media/logo192.22447361c0b851ebaaa6.png",
@@ -18,11 +18,11 @@
     "static/media/privacy-policy.md": "/static/media/privacy-policy.801d80f08f911766147b.md",
     "index.html": "/index.html",
     "main.e3a4b13b.css.map": "/static/css/main.e3a4b13b.css.map",
-    "main.92a6b03a.js.map": "/static/js/main.92a6b03a.js.map",
+    "main.427ad147.js.map": "/static/js/main.427ad147.js.map",
     "787.bbd231d6.chunk.js.map": "/static/js/787.bbd231d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3a4b13b.css",
-    "static/js/main.92a6b03a.js"
+    "static/js/main.427ad147.js"
   ]
 }
