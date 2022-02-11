@@ -14,7 +14,7 @@ import "../pages/SharedCSS.css"
 
 export const HomePage = () => {
 
-  const googlePlayLink = ''
+  const googlePlayLink = 'https://play.google.com/store/apps/details?id=app.wemet.stressy'
   const appStoreLink = 'https://apps.apple.com/app/stressy/id1607621903'
 
 
