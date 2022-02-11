@@ -22,7 +22,7 @@ export class NavBar extends Component {
           <Nav className="justify-content-end">
             {/* <Nav.Link href="/#/privacy">Privacy Policy</Nav.Link> */}
             {/* <Nav.Link href="/#/donwload">Download</Nav.Link> */}
-            {/* <Navbar.Brand href="https://github.com/Minituff/Stressy">
+            <Navbar.Brand href="https://github.com/Minituff/stressy.app">
               <img
                 alt="GitHub logo"
                 src={githublogo}
@@ -30,12 +30,10 @@ export class NavBar extends Component {
                 height="30"
                 className="d-inline-block align-top"
                 id="github-log"
-                style={{
-                  "filter": "invert(.6)"
-                }}
+                style={{ "filter": "invert(.6)" }}
               />{' '}
               GitHub
-            </Navbar.Brand> */}
+            </Navbar.Brand>
             {/* <Nav.Link href="https://github.com/Minituff/Stressy">GitHub</Nav.Link> */}
           </Nav>
         </Container>
