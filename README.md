@@ -17,7 +17,7 @@ Stressy helps you keep track of your stress levels and headaches. Rate your stre
 
 ## ✨ App Features
 
-- No ads, no paid subscriptions, no catches
+- 100% Free. No ads, no paid subscriptions, no catches
 - Email verification
 - Password reset
 - Realtime updates (calendar, friends, and home page)
