@@ -2,6 +2,7 @@ import NavBar from './components/NavBar';
 import { Routes, Route, HashRouter } from "react-router-dom";
 import { HomePage } from './pages/HomePage';
 import { PrivacyPage } from './pages/PrivacyPage';
+import { DeleteAccountPage } from './pages/DeleteAccountPage';
 import { NotFoundPage } from './pages/NotFoundPage';
 import { TermsPage } from './pages/TermsPage';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -17,6 +18,7 @@ function App() {
         <Routes>
           <Route path="*" element={<NotFoundPage />} />
           <Route path="/privacy" element={<PrivacyPage />} />
+          <Route path="/delete" element={<DeleteAccountPage />} />
           <Route path="/terms" element={<TermsPage />} />
           <Route path="/" element={<HomePage />} />
         </Routes>
