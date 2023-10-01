@@ -1,6 +1,6 @@
 # Stressy
 
-Stressy helps you keep track of your stress levels and headaches. Rate your stress & headaches on a scale of 1-10. Stressy will automatically create a calendar to help you keep track of this data. Best of all, share with your friends to notify them how you are feeling.
+[Stressy](https://stressy.app) helps you keep track of your stress levels and headaches. Rate your stress & headaches on a scale of 1-10. Stressy will automatically create a calendar to help you keep track of this data. Best of all, share with your friends to notify them how you are feeling.
 
 <a href="https://play.google.com/store/apps/details?id=app.wemet.stressy" title="Google Play"><img align="center" width="175px" alt="Google Play" src="./media/readme/google_play_store_badge.svg"/></a>
 <a href="https://apps.apple.com/app/stressy/id1607621903" title="Google Play"><img align="center" width="155px" alt="App Store" src="./media/readme/app-store-black.svg"/></a>
@@ -17,7 +17,7 @@ Stressy helps you keep track of your stress levels and headaches. Rate your stre
 
 ## ✨ App Features
 
-- No ads, no paid subscriptions, no catches
+- 100% Free. No ads, no paid subscriptions, no catches
 - Email verification
 - Password reset
 - Realtime updates (calendar, friends, and home page)
