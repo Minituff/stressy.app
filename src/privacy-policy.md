@@ -59,6 +59,10 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 This policy is effective as of 2022-01-29
 
+#### Data Deletion
+
+If you would like to completely *delete your account and all of your personal information* from our servers, please follow the instructions linked [here](/#/delete).
+
 #### Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@stressy.app](mailto:contact@stressy.app).
